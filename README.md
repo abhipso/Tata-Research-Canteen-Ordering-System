@@ -35,8 +35,11 @@ has ordered till then.
 
 
 Bonus points will be given to-
+
 1. Better security for login and json fetching.
+
 2. Better presentation of the website.
+
 3. Responsive Website.
 
 # Rules and Regulations
