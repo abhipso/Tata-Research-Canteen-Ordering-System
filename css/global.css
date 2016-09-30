@@ -1,0 +1,199 @@
+body{
+	font-family: Segoe UI;
+	background-color: #f1f1f1;
+	justify-content: center;
+    text-align: center;
+    margin: 0;
+
+}
+
+div {
+	display: block;
+}
+#login input {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 12px;
+	width: 95%;
+	border-radius: .25rem;
+	border-color: #ccc;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+	height: 24px;
+	border-width : 1px;
+}
+
+.input_title {
+	margin: 5px 0;
+	display: inline;
+	width: 100%;
+	text-align: left;
+	float: left;
+
+}
+.no_username {
+	display: inline;
+	text-align: right;
+	float: right;
+}
+
+.container {
+    background-color: #fff;
+    margin-top: 30px;
+    margin-bottom: 4px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+    padding-right: 15px;
+    max-width: 480px;
+    border-radius: 8px;
+}
+h1 {
+	font-size: 41px;
+	margin: 24px 0;
+	margin-top: 15px;
+	font-weight: normal;
+	color: #26b67c;
+	text-align: left;
+	font-family: "Tondo",Arial,"Helvetica Neue",Helvetica,sans-serif;
+}
+.container .heading ul li {
+	display: inline-block;
+	width: 30%;
+	color: #FFFFFF;
+	background-color: black;
+	font-size: 20px;
+	padding: 8px;
+	border-radius: 3px;
+}
+.container .heading ul li a {
+	color: #FFFFFF;
+}
+.container .heading ul {
+	padding-left: 0;
+}
+.container .heading .dropdown .dropdown-menu li {
+	display: table-row;
+	width: 100%;
+	justify-content: center;
+}
+.container .heading .dropdown .dropdown-menu li a:hover{
+	background-color: #999;
+
+}
+.container .heading .dropdown .dropdown-menu li a{
+
+}
+
+.each_item {
+	padding: 2px;
+	margin: 0;
+
+}
+.invalid_login {
+	
+}
+
+#myNavbar .navbar-right li a {
+	color: #FFFFFF;
+}
+#myNavbar .navbar-right li a:hover {
+	text-decoration: underline;
+}
+
+#inbody {
+	text-align: left;
+	padding-left: 8px;
+}
+#inbody .initems {
+	padding-left: 12px;
+}
+.container .body h2{
+
+	color: blue;
+}
+
+.h2, h2 {
+	color: #26b67c;
+	text-align: left;
+}
+#inbody .initems .each_item{
+	font-weight: bold;
+}
+#searchresult {
+	margin-left: 10px;
+	font-size: 18px;
+	margin-bottom: 8px;
+}
+.each_item {
+	margin-top: 4px;
+}
+
+
+#conf_orders {
+	font-size: 18px;
+	margin-bottom: 8px;
+}
+#conf_orders_title {
+	margin-bottom: 8px;
+	font-family: arial;
+	font-weight: bold;
+}
+.ordaction {
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+.eachfinalorder {
+	margin-bottom: 5px;
+}
+#confform input {
+	border: 0;
+    outline: none;
+    background-color: inherit;
+    text-align: center;
+    width: 18px;
+}
+#placeorder {
+	color: white;
+	text-decoration: none;
+	background-color: #26b67c;
+	padding: 5px 10px;
+	height: 38px;
+	font-size: 18px;
+	width: 110px;
+	border-radius: 5px;
+	border-width: 0;
+}
+.goback {
+	color: white;
+	text-decoration: none;
+	background-color: #26b67c;
+	padding: 5px 10px;
+	height: 38px;
+	font-size: 18px;
+	width: 150px;
+	border-radius: 5px;
+	border-width: 0;
+	padding-top: 6px;
+    padding-bottom: 7px;
+    margin-right: 6px;
+}
+.eachprice {
+	margin: 3px;
+}
+a.goback {
+	margin: 4px;
+}
+.summery_head {
+	text-align: left;
+	font-size: 21px;
+}
+.ordernumber {
+	font-size: 18px;
+	margin: 5px 2px;
+}
+.navbar-brand {
+	color: white;
+}
